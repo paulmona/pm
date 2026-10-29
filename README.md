@@ -1,4 +1,4 @@
-# claude-skills
+# pm
 
 A complete project management pipeline for Claude Code — from product idea to structured GitHub project, powered by Notion and GitHub.
 

@@ -1,4 +1,4 @@
-# claude-skills
+# pm
 
 ## Versioning
 
